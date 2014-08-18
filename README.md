@@ -19,7 +19,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -
     Lots and lots of well explained and implemented algorithms.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
-* [VisualGo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) Visualising data structures and algorithms through animation
+* [VisualGo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
@@ -96,6 +96,8 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [ProjectEuler](http://projecteuler.net/) -
     Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
 * [TopCoder](http://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
+* [HackerRank](https://www.hackerrank.com/) - Competitive programming challenges and contests. Test and hone your coding skills on hundreds of computer science challenges
+across the domain. 
 * [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
 * [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
 * [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
