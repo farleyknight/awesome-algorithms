@@ -19,6 +19,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -
     Lots and lots of well explained and implemented algorithms.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
+* [VisualGo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) Visualising data structures and algorithms through animation
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
