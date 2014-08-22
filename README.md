@@ -96,6 +96,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [ProjectEuler](http://projecteuler.net/) -
     Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
 * [TopCoder](http://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
+* [CodeEval](https://www.codeeval.com) - Find out how you rate against top coders. Unlock awesome startup jobs and hacker deals.
 * [HackerRank](https://www.hackerrank.com/) - Competitive programming challenges and contests. Test and hone your coding skills on hundreds of computer science challenges
 across the domain. 
 * [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
